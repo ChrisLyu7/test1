@@ -14,5 +14,6 @@ if __name__ == '__main__':
     print('good')
     print('good good')
     print('good good hello')
+    print("hello world")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
