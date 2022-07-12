@@ -13,5 +13,6 @@ if __name__ == '__main__':
     print_hi('nihao')
     print('good')
     print('good good')
+    print('good good hello')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
